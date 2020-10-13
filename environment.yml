@@ -1,0 +1,7 @@
+name: names_panel_app
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - hvplot
+  - panel
